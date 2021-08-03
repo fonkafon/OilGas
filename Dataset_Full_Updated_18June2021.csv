@@ -33,8 +33,8 @@ Shell U.K. Limited,PL1979 (2),Pipeline,Full Removal,Partial Removal,Full Removal
 Shell U.K. Limited,PL1979 (3),Pipeline,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,,,20,0.2,Yes,Yes,No,Chemicals,Seabed Laid,Full Removal
 Spirit Energy North Sea Limited,PL204,Pipeline,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,,,2,3.578,Yes,Yes,No,Chemicals,Trenched and Burried,Partial Removal
 Spirit Energy North Sea Limited,PL205,Pipeline,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,,,2,3.569,Yes,Yes,No,Chemicals,Trenched and Burried,Partial Removal
-Neptune E&P UKCS Limited,PL3122GEW,Pipeline,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,,,3.858267717,0.08,Yes,Yes,No,Chemicals,Seabed Laid,Full Removal
-Neptune E&P UKCS Limited,PL3122GWW,Pipeline,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,,,3.858267717,0.05,Yes,Yes,No,Chemicals,Seabed Laid,Full Removal
+Neptune E&PÂ UKCSÂ Limited,PL3122GEW,Pipeline,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,,,3.858267717,0.08,Yes,Yes,No,Chemicals,Seabed Laid,Full Removal
+Neptune E&PÂ UKCSÂ Limited,PL3122GWW,Pipeline,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,,,3.858267717,0.05,Yes,Yes,No,Chemicals,Seabed Laid,Full Removal
 Shell U.K. Limited,PL1451 (1.01),Pipeline,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,,,,0.3,Yes,Yes,No,Chemicals,Seabed Laid,Full Removal
 Shell U.K. Limited,PL1451 (1.02),Pipeline,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,,,,23,Yes,Yes,No,Chemicals,Trenched and Burried,Leave In-Situ
 Shell U.K. Limited,PL1454 (1.01),Pipeline,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,,,,0.3,Yes,Yes,No,Chemicals,Seabed Laid,Full Removal
@@ -292,8 +292,8 @@ Chrysaor Production (U.K.) Limited,PLU134JW10,Umbilical,Full Removal,Partial Rem
 Chrysaor Production (U.K.) Limited,PLU1334JW11,Umbilical,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,,,,0.1,Yes,Yes,No,Chemicals,Seabed Laid,Full Removal
 Chrysaor Production (U.K.) Limited,PLU1334JW12,Umbilical,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,,,,0.1,Yes,Yes,No,Chemicals,Seabed Laid,Full Removal
 Shell U.K. Limited,PLU4858,Umbilical,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,,,0.5,0.2,Yes,Yes,No,Chemicals,Seabed Laid,Full Removal
-Neptune E&P UKCS Limited,PLU2402,Umbilical,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,,,3.566929134,3.9,Yes,Yes,No,Chemicals,Trenched and Burried,Partial Removal
-Neptune E&P UKCS Limited,PLU3122,Umbilical,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,,,5.433070866,22,Yes,Yes,No,Chemicals,Trenched and Burried,Leave In-Situ
+Neptune E&PÂ UKCSÂ Limited,PLU2402,Umbilical,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,,,3.566929134,3.9,Yes,Yes,No,Chemicals,Trenched and Burried,Partial Removal
+Neptune E&PÂ UKCSÂ Limited,PLU3122,Umbilical,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,,,5.433070866,22,Yes,Yes,No,Chemicals,Trenched and Burried,Leave In-Situ
 Shell U.K. Limited,PLU245,Umbilical,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,,,,0.2,Yes,Yes,No,Chemicals,Seabed Laid,Full Removal
 Shell U.K. Limited,PLU2455JCDPM,Umbilical,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,,,,0.1,Yes,Yes,No,Chemicals,Seabed Laid,Full Removal
 Shell U.K. Limited,PLU2455JW3,Umbilical,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,,,,0.2,Yes,Yes,No,Chemicals,Seabed Laid,Full Removal
@@ -925,13 +925,13 @@ Chrysaor Production (U.K.) Limited,PL1098,Pipeline,Full Removal,Partial Removal,
 Chrysaor Production (U.K.) Limited,PL1091,Pipeline,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,,,12,14.3,Yes,No,No,Hydrocarbon,Trenched and Burried,Leave In-Situ
 Chrysaor Production (U.K.) Limited,PL1336,Pipeline,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,,,10,0.1,Yes,No,No,Hydrocarbon,Seabed Laid,Full Removal
 Chrysaor Production (U.K.) Limited,PL1337,Pipeline,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,,,6,0.1,Yes,No,No,Hydrocarbon,Seabed Laid,Full Removal
-Neptune E&P UKCS Limited,PL2401,Pipeline,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,,,8,0.04,Yes,No,No,Hydrocarbon,Trenched and Burried,Partial Removal
-Neptune E&P UKCS Limited,PL2401,Pipeline,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,,,8,3.7,Yes,No,No,Hydrocarbon,Trenched and Burried,Partial Removal
-Neptune E&P UKCS Limited,PL3121,Pipeline,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,,,12,22,Yes,No,No,Hydrocarbon,Trenched and Burried,Leave In-Situ
-Neptune E&P UKCS Limited,PL3121,Pipeline,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,,,12,0.08,Yes,No,No,Hydrocarbon,Seabed Laid,Full Removal
-Neptune E&P UKCS Limited,PL3121,Pipeline,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,,,12,0.05,Yes,No,No,Hydrocarbon,Seabed Laid,Full Removal
-Neptune E&P UKCS Limited,PL3121,Pipeline,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,,,6.625984252,0.06,Yes,No,No,Hydrocarbon,Seabed Laid,Full Removal
-Neptune E&P UKCS Limited,PL3121,Pipeline,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,,,6.625984252,0.03,Yes,No,No,Hydrocarbon,Seabed Laid,Full Removal
+Neptune E&PÂ UKCSÂ Limited,PL2401,Pipeline,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,,,8,0.04,Yes,No,No,Hydrocarbon,Trenched and Burried,Partial Removal
+Neptune E&PÂ UKCSÂ Limited,PL2401,Pipeline,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,,,8,3.7,Yes,No,No,Hydrocarbon,Trenched and Burried,Partial Removal
+Neptune E&PÂ UKCSÂ Limited,PL3121,Pipeline,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,,,12,22,Yes,No,No,Hydrocarbon,Trenched and Burried,Leave In-Situ
+Neptune E&PÂ UKCSÂ Limited,PL3121,Pipeline,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,,,12,0.08,Yes,No,No,Hydrocarbon,Seabed Laid,Full Removal
+Neptune E&PÂ UKCSÂ Limited,PL3121,Pipeline,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,,,12,0.05,Yes,No,No,Hydrocarbon,Seabed Laid,Full Removal
+Neptune E&PÂ UKCSÂ Limited,PL3121,Pipeline,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,,,6.625984252,0.06,Yes,No,No,Hydrocarbon,Seabed Laid,Full Removal
+Neptune E&PÂ UKCSÂ Limited,PL3121,Pipeline,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,,,6.625984252,0.03,Yes,No,No,Hydrocarbon,Seabed Laid,Full Removal
 Fairfield Fagus Limited,PL5,Pipeline,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,,,24,0.0648,Yes,No,No,Hydrocarbon,Seabed Laid,Full Removal
 Fairfield Fagus Limited,PL5,Pipeline,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,,,24,31.7,Yes,No,No,Hydrocarbon,Trenched and Burried,Leave In-Situ
 Fairfield Fagus Limited,PL5,Pipeline,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,,,24,0.0828,Yes,No,No,Hydrocarbon,Seabed Laid,Full Removal
@@ -1288,7 +1288,7 @@ Chrysaor Production (U.K.) Limited,Callisto ZM Manifold,Manifold,Full Removal,Fu
 Chrysaor Production (U.K.) Limited,NW Bell Manifold,Manifold,Full Removal,Full Removal,Full Removal,Full Removal,Leave In-Situ,,1016.127,,,Yes,No,No,None,Seabed Laid,Full Removal
 EnQuest Heather Limited,EnQuest Producer Manifold,Manifold,Full Removal,Full Removal,Full Removal,Full Removal,Leave In-Situ,208,808.4,,,Yes,No,No,None,Seabed Laid,Full Removal
 Chrysaor Production (U.K.) Limited,MacCulloch Manifold,Manifold,Full Removal,Full Removal,Full Removal,Full Removal,Leave In-Situ,274,,,,Yes,No,No,None,Seabed Laid,Full Removal
-Neptune E&P UKCS Limited,Juliet Manifold,Manifold,Full Removal,Full Removal,Full Removal,Full Removal,Leave In-Situ,97.2,528,,,Yes,No,No,None,Seabed Laid,Full Removal
+Neptune E&PÂ UKCSÂ Limited,Juliet Manifold,Manifold,Full Removal,Full Removal,Full Removal,Full Removal,Leave In-Situ,97.2,528,,,Yes,No,No,None,Seabed Laid,Full Removal
 Shell U.K. Limited,Curlew Delta Manifold,Manifold,Full Removal,Full Removal,Full Removal,Full Removal,Leave In-Situ,87.6,235.2,,,Yes,No,No,None,Seabed Laid,Full Removal
 ConocoPhillips (U.K.) Limited,Viking Subsea Manifold ,Manifold,Full Removal,Full Removal,Full Removal,Full Removal,Leave In-Situ,2,,,,Yes,No,No,None,Seabed Laid,Full Removal
 ConocoPhillips (U.K.) Limited,Viking Manifold,Manifold,Full Removal,Full Removal,Full Removal,Full Removal,Leave In-Situ,74,,,,Yes,No,No,None,Seabed Laid,Full Removal
@@ -1575,10 +1575,10 @@ EnQuest Heather Limited,EnQuest Producer Wellhead 5,Well Head Protection Structu
 EnQuest Heather Limited,EnQuest Producer Wellhead 6,Well Head Protection Structure,Full Removal,Full Removal,Full Removal,Full Removal,Leave In-Situ,55.9,542.432,,,Yes,No,No,None,Seabed Laid,Full Removal
 EnQuest Heather Limited,EnQuest Producer Wellhead 7,Well Head Protection Structure,Full Removal,Full Removal,Full Removal,Full Removal,Leave In-Situ,55.9,542.432,,,Yes,No,No,None,Seabed Laid,Full Removal
 Chrysaor Production (U.K.) Limited,MacCulloch Wellhead,Well Head Protection Structure,Full Removal,Full Removal,Full Removal,Full Removal,Leave In-Situ,225,,,,Yes,No,No,None,Seabed Laid,Full Removal
-Neptune E&P UKCS Limited,Minke Wellhead,Well Head Protection Structure,Full Removal,Full Removal,Full Removal,Full Removal,Leave In-Situ,26.75,320,,,Yes,No,No,None,Seabed Laid,Full Removal
+Neptune E&PÂ UKCSÂ Limited,Minke Wellhead,Well Head Protection Structure,Full Removal,Full Removal,Full Removal,Full Removal,Leave In-Situ,26.75,320,,,Yes,No,No,None,Seabed Laid,Full Removal
 DNO North Sea (ROGB) Limited,Schooner Wellhead,Well Head Protection Structure,Full Removal,Full Removal,Full Removal,Full Removal,Leave In-Situ,30,,,,Yes,No,No,None,Seabed Laid,Full Removal
-Neptune E&P UKCS Limited,Juliet Wellhead 1,Well Head Protection Structure,Full Removal,Full Removal,Full Removal,Full Removal,Leave In-Situ,34.9,567,,,Yes,No,No,None,Seabed Laid,Full Removal
-Neptune E&P UKCS Limited,Juliet Wellhead 2,Well Head Protection Structure,Full Removal,Full Removal,Full Removal,Full Removal,Leave In-Situ,34.9,567,,,Yes,No,No,None,Seabed Laid,Full Removal
+Neptune E&PÂ UKCSÂ Limited,Juliet Wellhead 1,Well Head Protection Structure,Full Removal,Full Removal,Full Removal,Full Removal,Leave In-Situ,34.9,567,,,Yes,No,No,None,Seabed Laid,Full Removal
+Neptune E&PÂ UKCSÂ Limited,Juliet Wellhead 2,Well Head Protection Structure,Full Removal,Full Removal,Full Removal,Full Removal,Leave In-Situ,34.9,567,,,Yes,No,No,None,Seabed Laid,Full Removal
 Apache Beryl Limited,N11 Well Head,Well Head Protection Structure,Full Removal,Full Removal,Full Removal,Full Removal,Leave In-Situ,21.5,251.853,,,Yes,No,No,None,Seabed Laid,Full Removal
 Shell U.K. Limited,Curlew Bravo Wellhead,Well Head Protection Structure,Full Removal,Full Removal,Full Removal,Full Removal,Leave In-Situ,49,108.24,,,Yes,No,No,None,Seabed Laid,Full Removal
 Shell U.K. Limited,Curlew Delta Wellhead 1,Well Head Protection Structure,Full Removal,Full Removal,Full Removal,Full Removal,Leave In-Situ,49,108.24,,,Yes,No,No,None,Seabed Laid,Full Removal
@@ -1670,10 +1670,10 @@ EnQuest Heather Limited,Alma and Galia Concrete Mattresses,Concrete Mattresses,F
 Chrysaor Production (U.K.) Limited,MacCulloch Concrete Mattresses,Concrete Mattresses,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,1746,,,,No,No,Yes,None,Seabed Laid,Full Removal
 Shell U.K. Limited,Goldeneye Concrete Mattresses,Concrete Mattresses,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,265,,,,No,No,Yes,None,Seabed Laid,Full Removal
 Spirit Energy North Sea Limited,DP3 DP4 Concrete Mattresses,Concrete Mattresses,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,637.9,,,,No,No,Yes,None,Seabed Laid,Full Removal
-Neptune E&P UKCS Limited,Minke Concrete Mattresses,Concrete Mattresses,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,201,,,,No,No,Yes,None,Seabed Laid,Full Removal
+Neptune E&PÂ UKCSÂ Limited,Minke Concrete Mattresses,Concrete Mattresses,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,201,,,,No,No,Yes,None,Seabed Laid,Full Removal
 DNO North Sea (ROGB) Limited,Ketch Concrete Mattresses,Concrete Mattresses,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,719.08,,,,No,No,Yes,None,Seabed Laid,Full Removal
 DNO North Sea (ROGB) Limited,Schooner Concrete Mattresses,Concrete Mattresses,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,381.5,,,,No,No,Yes,None,Seabed Laid,Full Removal
-Neptune E&P UKCS Limited,Juliet Concrete Mattresses,Concrete Mattresses,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,390,,,,No,No,Yes,None,Seabed Laid,Full Removal
+Neptune E&PÂ UKCSÂ Limited,Juliet Concrete Mattresses,Concrete Mattresses,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,390,,,,No,No,Yes,None,Seabed Laid,Full Removal
 Fairfield Betula Limited,PL5 Concrete Mattresses,Concrete Mattresses,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,54,,,,No,No,Yes,None,Seabed Laid,Full Removal
 Fairfield Betula Limited,PL5 Concrete Mattresses,Concrete Mattresses,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,60.75,,,,No,No,Yes,None,Trenched and Burried,Leave In-Situ
 Shell U.K. Limited,Curlew D Concrete Mattresses,Concrete Mattresses,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,1900,,,,No,No,Yes,None,Seabed Laid,Full Removal
@@ -1747,8 +1747,8 @@ INEOS UK SNS Limited,Windermere Rock Cover,Rock Cover,Partial Removal,Partial Re
 Ithaca Energy UK Limited,Anglia Rock Cover,Rock Cover,Partial Removal,Partial Removal,Partial Removal,Full Removal,Leave In-Situ,45592,,,,No,No,Yes,None,Seabed Laid,Leave In-Situ
 Lundin Energy Norway AS,Brynhild Rock Cover,Rock Cover,Partial Removal,Partial Removal,Partial Removal,Full Removal,Leave In-Situ,44355,,,,No,No,Yes,None,Seabed Laid,Leave In-Situ
 EnQuest Heather Limited,Alma and Galia Rock Cover,Rock Cover,Partial Removal,Partial Removal,Partial Removal,Full Removal,Leave In-Situ,16692,,,,No,No,Yes,None,Seabed Laid,Partial Removal
-Neptune E&P UKCS Limited,Minke Rock Cover,Rock Cover,Partial Removal,Partial Removal,Partial Removal,Full Removal,Leave In-Situ,6500,,,,No,No,Yes,None,Seabed Laid,Leave In-Situ
-Neptune E&P UKCS Limited,Juliet Rock Cover,Rock Cover,Partial Removal,Partial Removal,Partial Removal,Full Removal,Leave In-Situ,17650,,,,No,No,Yes,None,Seabed Laid,Leave In-Situ
+Neptune E&PÂ UKCSÂ Limited,Minke Rock Cover,Rock Cover,Partial Removal,Partial Removal,Partial Removal,Full Removal,Leave In-Situ,6500,,,,No,No,Yes,None,Seabed Laid,Leave In-Situ
+Neptune E&PÂ UKCSÂ Limited,Juliet Rock Cover,Rock Cover,Partial Removal,Partial Removal,Partial Removal,Full Removal,Leave In-Situ,17650,,,,No,No,Yes,None,Seabed Laid,Leave In-Situ
 Fairfield Betula Limited,PL5 Rock Cover,Rock Cover,Partial Removal,Partial Removal,Partial Removal,Full Removal,Leave In-Situ,6650,,,,No,No,Yes,None,Seabed Laid,Leave In-Situ
 Shell U.K. Limited,Curlew D Rock Cover,Rock Cover,Partial Removal,Partial Removal,Partial Removal,Full Removal,Leave In-Situ,27000,,,,No,No,Yes,None,Seabed Laid,Leave In-Situ
 Shell U.K. Limited,Curlew C Rock Cover,Rock Cover,Partial Removal,Partial Removal,Partial Removal,Full Removal,Leave In-Situ,33300,,,,No,No,Yes,None,Seabed Laid,Leave In-Situ
@@ -1796,10 +1796,10 @@ EnQuest Heather Limited,Alma and Galia Grout Bags,Grout Bags,Full Removal,Partia
 Chrysaor Production (U.K.) Limited,MacCulloch Grout Bags,Grout Bags,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,90,,,,No,Yes,No,None,Seabed Laid,Full Removal
 Shell U.K. Limited,Goldeneye Grout Bags,Grout Bags,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,15,,,,No,Yes,No,None,Seabed Laid,Full Removal
 Spirit Energy North Sea Limited,DP3 DP4 Grout Bags,Grout Bags,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,83.7,,,,No,Yes,No,None,Seabed Laid,Full Removal
-Neptune E&P UKCS Limited,Minke Grout Bags,Grout Bags,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,10.3,,,,No,Yes,No,None,Seabed Laid,Full Removal
+Neptune E&PÂ UKCSÂ Limited,Minke Grout Bags,Grout Bags,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,10.3,,,,No,Yes,No,None,Seabed Laid,Full Removal
 DNO North Sea (ROGB) Limited,Ketch Grout Bags,Grout Bags,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,9.7,,,,No,Yes,No,None,Seabed Laid,Full Removal
 DNO North Sea (ROGB) Limited,Schooner Grout Bags,Grout Bags,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,26,,,,No,Yes,No,None,Seabed Laid,Full Removal
-Neptune E&P UKCS Limited,Juliet Grout Bags,Grout Bags,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,82,,,,No,Yes,No,None,Seabed Laid,Full Removal
+Neptune E&PÂ UKCSÂ Limited,Juliet Grout Bags,Grout Bags,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,82,,,,No,Yes,No,None,Seabed Laid,Full Removal
 Fairfield Fagus Limited,PL5 Grout Bags,Grout Bags,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,108.5,,,,No,Yes,No,None,Seabed Laid,Leave In-Situ
 Shell U.K. Limited,Curlew D Grout Bags,Grout Bags,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,45,,,,No,Yes,No,None,Seabed Laid,Full Removal
 Shell U.K. Limited,Curlew C Grout Bags,Grout Bags,Full Removal,Partial Removal,Full Removal,Full Removal,Leave In-Situ,30,,,,No,Yes,No,None,Seabed Laid,Full Removal
